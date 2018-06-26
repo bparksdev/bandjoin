@@ -1,0 +1,62 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 01:32:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 01:32:03 184.175.101.31 GET /robots.txt - 80 - 157.55.39.26 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - bandjoin.com 200 0 0 442 245 312
+2018-06-25 01:32:07 184.175.101.31 GET / - 80 - 207.46.13.164 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - bandjoin.com 200 0 0 3216 267 875
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 02:02:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 02:02:39 184.175.101.31 GET /stylesheets/main.css A326D93A0E82799FC08841753309A811 80 - 40.77.190.129 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://bandjoin.com/ bandjoin.com 200 0 0 787 285 343
+2018-06-25 02:02:42 184.175.101.31 GET /robots.txt - 80 - 207.46.13.164 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - bandjoin.com 200 0 0 442 245 78
+2018-06-25 02:02:42 184.175.101.31 GET /robots.txt - 80 - 207.46.13.164 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - bandjoin.com 200 0 0 442 245 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 04:18:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 04:18:38 184.175.101.31 GET / - 80 - 193.106.30.99 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 - bandjoin.com 200 0 0 3216 225 1437
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 14:52:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 14:52:27 184.175.101.31 GET /wp-login.php - 80 - 185.234.218.44 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+125LA;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022) http://bandjoin.com/wp-login.php bandjoin.com 404 0 2 1405 339 468
+2018-06-25 14:52:27 184.175.101.31 GET /wp-login.php - 80 - 185.234.218.44 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+125LA;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022) http://bandjoin.com/wp-login.php bandjoin.com 404 0 2 1405 339 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 15:17:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 15:17:07 184.175.101.31 GET / - 80 - 34.254.98.200 Python/3.6+aiohttp/2.3.2 - bandjoin.com 200 0 0 3214 121 13559
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 17:38:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 17:38:15 184.175.101.31 GET / - 80 - 34.245.239.63 Python/3.6+aiohttp/2.3.2 - bandjoin.com 200 0 0 3216 121 1953
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 18:03:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 18:03:14 184.175.101.31 GET / - 80 - 52.165.148.51 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - bandjoin.com 200 0 64 3195 285 2312
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 19:17:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 19:17:14 184.175.101.31 GET /LICENSE.php - 80 - 193.106.30.99 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 - bandjoin.com 404 0 2 1405 236 527
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 19:42:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 19:42:59 184.175.101.31 GET / - 80 - 52.165.150.117 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - bandjoin.com 200 0 0 3216 292 2015
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 21:33:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 21:33:37 184.175.101.31 GET /robots.txt - 80 - 66.249.69.170 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.bandjoin.com 200 0 0 442 230 324
+2018-06-25 21:33:38 184.175.101.31 GET / - 80 - 66.249.69.172 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.bandjoin.com 200 0 0 3216 293 1721
+2018-06-25 21:33:41 184.175.101.31 GET /stylesheets/main.css A326D93A0E82799FC08841753309A811 80 - 66.249.69.170 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.bandjoin.com/ www.bandjoin.com 200 0 0 787 550 26
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-06-25 22:24:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-06-25 22:24:03 184.175.101.31 GET /robots.txt - 80 - 5.255.250.50 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - bandjoin.com 200 0 0 277 195 484
+2018-06-25 22:24:08 184.175.101.31 GET / - 80 - 5.255.250.50 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - bandjoin.com 200 0 0 3216 216 2062

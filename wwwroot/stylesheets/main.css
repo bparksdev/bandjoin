@@ -1,0 +1,49 @@
+body {
+	font-family: 'Muli', sans-serif;
+	background-color: #333;
+}
+.text450 {
+	font-size:450%;
+	margin-bottom:20px;
+}
+.text300 {
+	font-size:300%;
+	margin-bottom:20px;
+}
+.text200 {
+	font-size:200%;
+	margin-bottom:20px;
+}
+label {
+	font-size:20px;
+	min-width: 200px;
+	
+}
+.bigtextbox {
+	font-size:20px;
+	padding:5px;
+}
+.flashMessages {
+	position: absolute;
+	z-index: 999;
+	top: 100px;
+	left: 33%;
+	height: 110px;
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	font-size: 20px;
+	width: 33%;
+	text-align: center;	
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    -o-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    -ms-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);     
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -o-border-radius: 15px;
+    -ms-border-radius: 15px;
+}
+
