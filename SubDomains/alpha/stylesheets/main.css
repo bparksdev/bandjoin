@@ -17,7 +17,7 @@ body {
 label {
 	font-size:20px;
 	min-width: 200px;
-	
+
 }
 .bigtextbox {
 	font-size:20px;
@@ -29,17 +29,17 @@ label {
 	top: 100px;
 	left: 33%;
 	height: 110px;
-	background-color: white;
+	background-color: greenyellow ;
 	padding: 20px;
 	border-radius: 10px;
 	font-size: 20px;
 	width: 33%;
-	text-align: center;	
+	text-align: center;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
     -webkit-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
     -o-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
-    -ms-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);     
+    -ms-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
     border-radius: 15px;
     -moz-border-radius: 15px;
     -webkit-border-radius: 15px;

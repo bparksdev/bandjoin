@@ -28,7 +28,7 @@ label {
 	body {color:white !important;}
 	</style>
 </cfif>
-<div class="container" style="margin-top:20px;text-align:center">
+<div class="container-fluid" style="margin-top:20px;text-align:center">
 	<div class="text450" style="color:#fff">Let's face it.</div>
 	<div class="text300" style="color:#fff">
 		<span class="glyphicon glyphicon-music"style="color:#c5bf63"></span>Musical relationships can be as intense and all-consuming as romantic ones.<span class="glyphicon glyphicon-heart" style="color:#b30e0e"></span>
@@ -43,12 +43,23 @@ label {
 			With thoughtful consideration of a musician's <em>likes and dislikes, aspirations, personal style, preferences, and skills</em> and how those match up (or not) with another individual?
 		</div>
 		<div class="text300">
-			The answer is coming soon. Throw us your email and zip code and we'll keep you in the loop as we prepare to launch BandJoin.com!
+			The answer is coming soon. Throw us your basic details and we'll keep you in the loop as we prepare to launch BandJoin.com!
 		</div>
 		<cfoutput>
 		<div class="well" style="color: ##828282;">
 			#errorMessagesFor("user")#
 			#startFormTag(controller="site", action="adduser")#
+			#textField(
+						label="First Name",
+						objectName="user",
+						property="firstname",
+						labelPlacement="before",required="true",class="bigtextbox")#
+			#textField(
+						label="Last Name",
+						objectName="user",
+						property="lastname",
+						labelPlacement="before",required="true",class="bigtextbox")#
+			<br /><br />
 			#textField(
 						label="Email",
 						objectName="user",
@@ -62,24 +73,24 @@ label {
 						property="zippostalcode",
 						prependToLabel="<div>",
 						labelPlacement="before",required="true",class="bigtextbox",maxlength="5")#
-			<br />
-			<small>(No birth date necessary)</small>
+			<br /><br />
+			<small>(No birth date necessary!)</small>
 			<br /><br />
 			#submitTag(class="btn btn-success btn-lg",value="I'm Curious!")#
 			#endFormTag()#
 		</div>
 		<br /><br />
 		<small>
-			Questions? Please feel free to <a href="mailto:support@bandjoin.com">email us</a>. Anytime.
+			Questions? Please feel free to <a href="mailto:questions@bandjoin.com">email us</a>. Anytime.
 			<br />
 			<br />
-			&copy;2017 BandJoin.com - Home of the <strong>Musician Compatibility Engine</strong>&##8482;
+			&copy;2019 BandJoin.com - Home of the <strong>Musician Compatibility Engine</strong>&##8482;
 		</small>
 		</cfoutput>
 	</div>
 </div>
 </div>
-<div class="text300">What is the Musician Compatibility Engine &#8482;?</div>
+<div class="text300">What is the <em>Musician Compatibility Engine</em> &#8482;?</div>
 <div class="text200">
 	Glad you asked! The MCE is a tool that allows an artist to find similar (or disimilar) artists based on several weighted comparison algorithms - exclusive to BandJoin.
 	<br /><br />

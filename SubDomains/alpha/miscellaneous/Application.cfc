@@ -5,4 +5,8 @@
 
 <cfcomponent>
 	<cfset this.enablerobustexception = true />
+
+	<cfset this.name = "HOAIC60">
+	<cfset this.sessionmanagement = true>
+	<cfset this.sessionTimeout = createTimespan(0,0,40,0)>
 </cfcomponent>

@@ -3,9 +3,11 @@
 #flashMessages()#
 
 </cfoutput>
-<html>
+<!DOCTYPE html>
+<html  lang="en">
 	<head>
-	    <meta charset="windows-1252">
+	    <meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
 	    <meta name="description" content="Musician matching at BandJoin.com. Use our exclusive Musician Compatibility Engine (MCE) free for 30 days, then just a low $1.99 per month!">
 	    <meta name="keywords" content="musicians wanted,musician classifieds,musician want ads,band classifieds,music industry,musician resources,drummers,guitarist,bass player,bands,singer,vocalist,musician matching">
 		<script>
@@ -35,9 +37,7 @@
 	</head>
 	<body>
 		<cfoutput>
-			<div class="text-center">
-			#imagetag("logobj.png")#
-			</div>
+			#imagetag(source="logobj.png", class="img-responsive")#
 			#includeContent()#
 		</cfoutput>
 	</body>

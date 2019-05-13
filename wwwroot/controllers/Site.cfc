@@ -14,10 +14,8 @@ function init() {
 
 <cffunction name="adduser">
 <cftry>
-	<cfset newuser = model("user").new()>
-	<cfset newuser.email = params.user.email>
-	<cfset newuser.username = params.user.email>
-	<cfset newuser.zippostalcode = params.user.zippostalcode>
+	<cfset params.user.username = params.user.email>
+	<cfset newuser = model("user").new(params.user)>
 	<cfset newuser.save()>
 	<cfset profile = model("userprofile").new()>
 	<cfset profile.userid = newuser.userid>
